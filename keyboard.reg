@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"BounceTime"="0"
+"Last BounceKey Setting"=dword:00000000
+"AutoRepeatDelay"="200"
+"AutoRepeatRate"="1"
+"DelayBeforeAcceptance"="0"
+"Last Valid Delay"=dword:000000c8
+"Last Valid Repeat"=dword:00000001
+"Last Valid Wait"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardSpeed"="31"
+"InitialKeyboardIndicators"="2"
+"KeyboardDelay"="0"
+"PrintScreenKeyForSnippingEnabled"=dword:00000000
